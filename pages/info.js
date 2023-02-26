@@ -1,8 +1,6 @@
-import Nav from "../components/Nav"
 
-export default function Info(){
+export default function InfoPage(){
     return <>
-        <Nav/>
         <h1>Info</h1>
     </>
 }
